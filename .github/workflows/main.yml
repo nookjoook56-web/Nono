@@ -1,0 +1,28 @@
+name: TR Kanal Guncelleme
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Her 3 saatte bir otomatik calisir
+  workflow_dispatch: # Manuel baslatma butonu acar
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Guncel Vavoo Listesini Indir
+        run: |
+          curl -L https://raw.githubusercontent.com/nookjoook56-web/Vavoo-m3u/main/VavooGen/index.m3u -o index.m3u
+
+      - name: Sadece TR Kanallari Filtrele
+        run: python turkce_filtre.py
+
+      - name: Degisiklikleri Kaydet
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add tr-vavoo.m3u
+          git commit -m "TR kanallari guncellendi" || exit 0
+          git push
+          
