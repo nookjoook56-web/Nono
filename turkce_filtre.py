@@ -4,22 +4,23 @@ input_path = 'index.m3u'
 output_path = 'tr-vavoo.m3u'
 
 if os.path.exists(input_path):
+    print(f"{input_path} bulundu, işlem başlıyor...")
     with open(input_path, 'r', encoding='utf-8') as f:
         satirlar = f.readlines()
 
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write("#EXTM3U\n")
         for i in range(len(satirlar)):
-            # "Turkey" grubunu bul
+            # Sadece 'Turkey' grubuna ait olan başlık satırını bul
             if 'group-title="Turkey"' in satirlar[i]:
-                # 1. User-Agent'ı 1.0'dan 2.6'ya yükselt
-                duzeltilmis_inf = satirlar[i].replace('VAVOO/1.0', 'VAVOO/2.6')
-                f.write(duzeltilmis_inf)
+                # Eski User-Agent'ı yenisiyle (2.6) değiştirerek yaz
+                yeni_inf = satirlar[i].replace('VAVOO/1.0', 'VAVOO/2.6')
+                f.write(yeni_inf)
                 
-                # 2. Alt satırdaki linki kontrol et ve ekle
-                if i + 1 < len(satirlar) and satirlar[i+1].startswith('http'):
+                # ÖNEMLİ: Başlık satırının hemen altındaki LİNK satırını al
+                if i + 1 < len(satirlar):
                     f.write(satirlar[i+1])
-    print("TR Listesi User-Agent 2.6 ile güncellendi!")
+    print(f"Bitti! {output_path} dosyası linklerle beraber oluşturuldu.")
 else:
-    print("Dosya bulunamadı!")
+    print("Hata: index.m3u dosyası bulunamadı!")
     
