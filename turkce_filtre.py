@@ -1,24 +1,25 @@
 import os
 
-# İndirdiğimiz ana dosya adı
 input_path = 'index.m3u'
-# Süzüldükten sonra oluşacak dosya adı
 output_path = 'tr-vavoo.m3u'
 
 if os.path.exists(input_path):
-    print(f"{input_path} bulundu, Türk kanalları ayıklanıyor...")
     with open(input_path, 'r', encoding='utf-8') as f:
         satirlar = f.readlines()
 
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write("#EXTM3U\n")
         for i in range(len(satirlar)):
-            # 'Turkey' veya 'TR' grubunu yakala
-            if 'group-title="Turkey"' in satirlar[i] or 'group-title="TR"' in satirlar[i]:
-                f.write(satirlar[i])      # Kanal bilgisi satırı (#EXTINF)
-                if i + 1 < len(satirlar):
-                    f.write(satirlar[i+1]) # Kanalın link satırı
-    print(f"Bitti! {output_path} dosyası başarıyla hazırlandı.")
+            # "Turkey" grubunu bul
+            if 'group-title="Turkey"' in satirlar[i]:
+                # 1. User-Agent'ı 1.0'dan 2.6'ya yükselt
+                duzeltilmis_inf = satirlar[i].replace('VAVOO/1.0', 'VAVOO/2.6')
+                f.write(duzeltilmis_inf)
+                
+                # 2. Alt satırdaki linki kontrol et ve ekle
+                if i + 1 < len(satirlar) and satirlar[i+1].startswith('http'):
+                    f.write(satirlar[i+1])
+    print("TR Listesi User-Agent 2.6 ile güncellendi!")
 else:
-    print(f"Hata: {input_path} dosyası bulunamadı. Önce indirici (curl) çalışmalı.")
+    print("Dosya bulunamadı!")
     
