@@ -1,0 +1,11 @@
+      - name: Sadece TR Kanalları Ayıkla
+        run: python turkce_filtre.py
+
+      - name: TR Dosyasını Kaydet
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add tr-vavoo.m3u
+          git commit -m "TR kanalları güncellendi" || exit 0
+          git push
+          
