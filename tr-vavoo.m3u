@@ -216,6 +216,13 @@ https://vavoo.to/play3/1963748784.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1835579025.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="beINSeriesComedy.tr" tvg-name="BEIN SERIES COMEDY (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BEIN SERIES COMEDY (7)
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1668144911.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="beINSeriesDrama.tr" tvg-name="BEIN SERIES DRAMA (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BEIN SERIES DRAMA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -286,13 +293,6 @@ https://vavoo.to/play3/2806079612.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2832430535.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="BeinSportsMax2.tr" tvg-name="BEIN SPORTS MAX 2 (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BEIN SPORTS MAX 2 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/4017295127.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Benguturk.tr" tvg-name="BENGUTURK (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BENGUTURK (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -377,13 +377,6 @@ https://vavoo.to/play3/3185778667.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3278683973.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="DigiMax.tr" tvg-name="DIGI MAX (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DIGI MAX (7)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1278447576.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -825,13 +818,6 @@ https://vavoo.to/play3/2802702453.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/563718875.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="KANAL 7 (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KANAL 7 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3015649982.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="KANAL 7 AVRUPA (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KANAL 7 AVRUPA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -909,13 +895,6 @@ https://vavoo.to/play3/1587995854.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/685300988.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="KralPop.tr" tvg-name="KRAL POP (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KRAL POP (7)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/4169838993.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="KralSakir.tr" tvg-name="KRAL SAKIR (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KRAL SAKIR (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1392,13 +1371,6 @@ https://vavoo.to/play3/1233464949.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/4221956709.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="SinevizyonTurk6.tr" tvg-name="SINEVIZYON TURK 6 (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SINEVIZYON TURK 6 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3154479285.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="SinevizyonTurk7.tr" tvg-name="SINEVIZYON TURK 7 (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SINEVIZYON TURK 7 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1406,13 +1378,6 @@ https://vavoo.to/play3/3154479285.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2170921221.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="SinevizyonTurk9.tr" tvg-name="SINEVIZYON TURK 9 (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SINEVIZYON TURK 9 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1045765988.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="SirinlerTv.tr" tvg-name="SIRINLER TV (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SIRINLER TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2253,13 +2218,6 @@ https://vavoo.to/play3/4022359276.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1072972009.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.tr" tvg-name="DISCOVERY SCIENCE (6)" tvg-logo="/live2/logo/1013220447.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DISCOVERY SCIENCE (6)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1013220447.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.tr" tvg-name="DISCOVERY WORLD (6)" tvg-logo="/live2/logo/3624002307.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DISCOVERY WORLD (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2421,13 +2379,6 @@ https://vavoo.to/play3/1736962708.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1670462361.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="ETVKayseri.tr" tvg-name="ETV KAYSERI (6)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ETV KAYSERI (6)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1218353983.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="ETVManisa.tr" tvg-name="ETV MANISA (6)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ETV MANISA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2694,13 +2645,6 @@ https://vavoo.to/play3/744021843.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/897076110.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="KanalUrfa.tr" tvg-name="KANAL URFA (6)" tvg-logo="/live2/logo/847659673.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KANAL URFA (6)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/847659673.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="KanalV.tr" tvg-name="KANAL V (6)" tvg-logo="/live2/logo/221540542.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KANAL V (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3989,13 +3933,6 @@ https://vavoo.to/play3/1771137539.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2019055277.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TrAkTTv.tr" tvg-name="4K TR: AK T TV HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",4K TR: AK T TV HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3445585687.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="4K TR: ATV HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",4K TR: ATV HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4087,13 +4024,6 @@ https://vavoo.to/play3/869937351.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/4266683025.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TrDuckTv.tr" tvg-name="4K TR: DUCK TV HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",4K TR: DUCK TV HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1709129189.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TrEkolTv.tr" tvg-name="4K TR: EKOL TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",4K TR: EKOL TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4423,6 +4353,13 @@ https://vavoo.to/play3/960578312.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/31596047.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="TrSportsTv.tr" tvg-name="4K TR: SPORTS TV HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",4K TR: SPORTS TV HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2429298798.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="startv.tr" tvg-name="4K TR: STAR TV HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",4K TR: STAR TV HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4689,13 +4626,6 @@ https://vavoo.to/play3/1835847966.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/4225961715.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="AdanaTv.tr" tvg-name="ADANA TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ADANA TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/225124967.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="AdiyamanMercanTv.tr" tvg-name="ADIYAMAN MERCAN TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ADIYAMAN MERCAN TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4703,13 +4633,6 @@ https://vavoo.to/play3/225124967.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3055235391.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="AfyonTRkTv.tr" tvg-name="AFYON T RK TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",AFYON T RK TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/145755891.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="AhmetKaya.tr" tvg-name="AHMET KAYA (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",AHMET KAYA (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4738,13 +4661,6 @@ https://vavoo.to/play3/955806672.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3728553873.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="AlemFmRadyoland.tr" tvg-name="ALEM FM RADYOLAND (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ALEM FM RADYOLAND (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1908714253.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="AlemRadyo.tr" tvg-name="ALEM RADYO (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ALEM RADYO (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4759,27 +4675,6 @@ https://vavoo.to/play3/809445873.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/4274827801.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="AnakkaleBoazTv.tr" tvg-name="ANAKKALE BOĞAZ TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ANAKKALE BOĞAZ TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1943578223.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="AnakkaleTonTv.tr" tvg-name="ANAKKALE TON TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ANAKKALE TON TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/4250561695.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.tr" tvg-name="ANIMAL PLANET HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ANIMAL PLANET HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3913298991.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Animation1.tr" tvg-name="ANIMATION 1 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ANIMATION 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4787,20 +4682,6 @@ https://vavoo.to/play3/3913298991.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/727427437.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Animaux.tr" tvg-name="ANIMAUX (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ANIMAUX (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2103702130.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="AnkaraTRkiyemTv.tr" tvg-name="ANKARA T RKIYEM TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ANKARA T RKIYEM TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1443355363.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="AnliurfaKanalUrfa.tr" tvg-name="ANLIURFA KANAL URFA (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ANLIURFA KANAL URFA (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4885,13 +4766,6 @@ https://vavoo.to/play3/645431530.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/154080342.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="BabaRadyoArabesk.tr" tvg-name="BABA RADYO ARABESK (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BABA RADYO ARABESK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/4096569454.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="BabyTv.tr" tvg-name="BABY TV HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BABY TV HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4899,13 +4773,6 @@ https://vavoo.to/play3/4096569454.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2751658995.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Baha.tr" tvg-name="BAHA (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BAHA (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1044947667.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="BarbieAnimation2.tr" tvg-name="BARBIE ANIMATION 2 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BARBIE ANIMATION 2 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5186,13 +5053,13 @@ https://vavoo.to/play3/1822425118.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1566323467.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="BestFmTRkEPop.tr" tvg-name="BEST FM T RK E POP (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BEST FM T RK E POP (1)
+#EXTINF:-1 tvg-id="BestDram.tr" tvg-name="BEST DRAM (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BEST DRAM (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #KODIPROP:http-user-agent=VAVOO/2.6
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2591986518.m3u8/index.m3u8
+https://vavoo.to/play3/4099015608.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="BestHababamSinifi.tr" tvg-name="BEST HABABAM SINIFI (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BEST HABABAM SINIFI (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5221,13 +5088,6 @@ https://vavoo.to/play3/1723326598.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2298271695.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="BestLoca1.tr" tvg-name="BEST LOCA 1 (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BEST LOCA 1 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1063857052.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="BestLoca2.tr" tvg-name="BEST LOCA 2 (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BEST LOCA 2 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5277,13 +5137,6 @@ https://vavoo.to/play3/3772333925.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1358616385.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="BestTurk.tr" tvg-name="BEST TURK (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BEST TURK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1196198280.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="BestWestern.tr" tvg-name="BEST WESTERN (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BEST WESTERN (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5291,13 +5144,6 @@ https://vavoo.to/play3/1196198280.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1324126222.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="BestYesilcam.tr" tvg-name="BEST YESILCAM (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BEST YESILCAM (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3652347263.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Beyaz.tr" tvg-name="BEYAZ HD+ SD (1)" tvg-logo="/live2/logo/1020985035.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BEYAZ HD+ SD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5347,20 +5193,6 @@ https://vavoo.to/play3/2224047651.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/236989031.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="BLOOMBERG HT HD+ SD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BLOOMBERG HT HD+ SD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2563486225.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="BLOOMBERGHT HD (1)" tvg-logo="/live2/logo/858568307.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BLOOMBERGHT HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/858568307.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="BLOOMBERGHT RAW (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",BLOOMBERGHT RAW (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5501,13 +5333,6 @@ https://vavoo.to/play3/230189059.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2337350974.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="DinamikAnimasyon.tr" tvg-name="DINAMIK ANIMASYON (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DINAMIK ANIMASYON (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2317648269.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="DinamikBilimkurgu.tr" tvg-name="DINAMIK BILIMKURGU (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DINAMIK BILIMKURGU (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5550,13 +5375,6 @@ https://vavoo.to/play3/432913286.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/306993094.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="DinamikVizyon.tr" tvg-name="DINAMIK VIZYON (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DINAMIK VIZYON (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3331045719.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="DinamikWestern.tr" tvg-name="DINAMIK WESTERN (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DINAMIK WESTERN (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5564,13 +5382,6 @@ https://vavoo.to/play3/3331045719.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/726915072.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="DinamikYesilcam.tr" tvg-name="DINAMIK YESILCAM (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DINAMIK YESILCAM (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1047525168.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-name="DISCOVERY CHANNEL HD+ (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL HD+ (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5676,13 +5487,6 @@ https://vavoo.to/play3/1514643536.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3968360733.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="DreamBeinOffice1.tr" tvg-name="DREAM BEIN OFFICE 1 (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DREAM BEIN OFFICE 1 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2759159211.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="DreamBeinOffice10.tr" tvg-name="DREAM BEIN OFFICE 10 (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DREAM BEIN OFFICE 10 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5795,27 +5599,6 @@ https://vavoo.to/play3/2635758688.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3669624496.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="DreamLoca3.tr" tvg-name="DREAM LOCA 3 (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DREAM LOCA 3 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3889835776.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="DreamNetflix.tr" tvg-name="DREAM NETFLIX (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DREAM NETFLIX (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1713907990.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="DreamSavas.tr" tvg-name="DREAM SAVAS (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DREAM SAVAS (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1155291490.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="DREAM TURK (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DREAM TURK (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5837,13 +5620,6 @@ https://vavoo.to/play3/2557090695.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1383473435.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="DreamWestern.tr" tvg-name="DREAM WESTERN (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DREAM WESTERN (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/4198849902.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="DucuBox.tr" tvg-name="DUCU BOX (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",DUCU BOX (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5872,6 +5648,13 @@ https://vavoo.to/play3/658726604.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2156922182.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="EgeTurkTV.tr" tvg-name="EGE TURK TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",EGE TURK TV (1)
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/4225938876.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="EkinTRkTv.tr" tvg-name="EKIN T RK TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",EKIN T RK TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6187,13 +5970,6 @@ https://vavoo.to/play3/3150381038.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2843011698.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="GaziantepOlayTV.tr" tvg-name="GAZIANTEP OLAY TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",GAZIANTEP OLAY TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2413536917.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="GlobalBoxAction.tr" tvg-name="GLOBAL BOX ACTION (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",GLOBAL BOX ACTION (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6404,20 +6180,6 @@ https://vavoo.to/play3/961307496.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/340307369.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="HzYusuf.tr" tvg-name="HZ YUSUF (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",HZ YUSUF (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/336266893.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="IbrahimTatlises.tr" tvg-name="IBRAHIM TATLISES (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",IBRAHIM TATLISES (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2135559174.m3u8/index.m3u8
 #EXTINF:-1 tvg-id=" dman Azerbaycan-TR" tvg-name="IDMAN TV HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",IDMAN TV HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6446,13 +6208,6 @@ https://vavoo.to/play3/1676737490.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3847791361.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="IzmirTv35.tr" tvg-name="IZMIR TV 35 (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",IZMIR TV 35 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/666189323.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="KahramanmaraAksuTv.tr" tvg-name="KAHRAMANMARA AKSU TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KAHRAMANMARA AKSU TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6565,13 +6320,6 @@ https://vavoo.to/play3/712040085.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1846780399.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="KayseriKayTv.tr" tvg-name="KAYSERI KAY TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KAYSERI KAY TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/168048388.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="KayseriKentTv.tr" tvg-name="KAYSERI KENT TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KAYSERI KENT TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6579,13 +6327,6 @@ https://vavoo.to/play3/168048388.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/161664882.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="KayseriLifeTv.tr" tvg-name="KAYSERI LIFE TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KAYSERI LIFE TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/829204946.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="KayseriOlayTRkTv.tr" tvg-name="KAYSERI OLAY T RK TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KAYSERI OLAY T RK TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6614,13 +6355,6 @@ https://vavoo.to/play3/3759364273.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3585033856.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="KralFmArabesk.tr" tvg-name="KRAL FM ARABESK (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KRAL FM ARABESK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2220807783.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="KralPop.tr" tvg-name="KRAL POP HD+ (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",KRAL POP HD+ (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6691,20 +6425,6 @@ https://vavoo.to/play3/3309481234.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1078222172.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="MahsunKirmizigul.tr" tvg-name="MAHSUN KIRMIZIGUL (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",MAHSUN KIRMIZIGUL (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2387238073.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="MalatyaErtv.tr" tvg-name="MALATYA ERTV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",MALATYA ERTV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/4062866760.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="MamEbuHanife.tr" tvg-name="MAM EBU HANIFE (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",MAM EBU HANIFE (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6726,13 +6446,6 @@ https://vavoo.to/play3/517032049.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3854689350.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="MbatFmArabesk.tr" tvg-name="MBAT FM ARABESK (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",MBAT FM ARABESK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2719293629.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="MeltemTV.tr" tvg-name="MELTEM TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",MELTEM TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7013,13 +6726,6 @@ https://vavoo.to/play3/349052544.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1169103597.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="PowerFmYabanciMZik.tr" tvg-name="POWER FM YABANCI M ZIK (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",POWER FM YABANCI M ZIK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1299417291.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Power.tr" tvg-name="POWER HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",POWER HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7083,13 +6789,6 @@ https://vavoo.to/play3/1959665596.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3415299258.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="SPerFmTRkEPop.tr" tvg-name="S PER FM T RK E POP (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",S PER FM T RK E POP (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/460410710.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="SSport3MacSaati.tr" tvg-name="S SPORT+3 MAC SAATI (1)" tvg-logo="/live2/logo/3269372326.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",S SPORT+3 MAC SAATI (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7097,20 +6796,6 @@ https://vavoo.to/play3/460410710.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3269372326.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="SSport4MacSaati.tr" tvg-name="S SPORT+4 MAC SAATI (1)" tvg-logo="/live2/logo/1507829436.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",S SPORT+4 MAC SAATI (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1507829436.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="SSport5MacSaati.tr" tvg-name="S SPORT+5 MAC SAATI (1)" tvg-logo="/live2/logo/3760487764.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",S SPORT+5 MAC SAATI (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3760487764.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="SZcSzcTv.tr" tvg-name="S ZC SZC TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",S ZC SZC TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7209,13 +6894,13 @@ https://vavoo.to/play3/2643999032.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1216541895.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Salon10.tr" tvg-name="SALON 10 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SALON 10 HD (1)
+#EXTINF:-1 tvg-id="Salon11.tr" tvg-name="SALON 11 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SALON 11 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #KODIPROP:http-user-agent=VAVOO/2.6
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/506636304.m3u8/index.m3u8
+https://vavoo.to/play3/3533219982.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Salon12.tr" tvg-name="SALON 12 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SALON 12 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7244,34 +6929,6 @@ https://vavoo.to/play3/2591598314.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1456645748.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Salon16.tr" tvg-name="SALON 16 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SALON 16 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3630014871.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Salon17.tr" tvg-name="SALON 17 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SALON 17 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/351772937.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Salon18.tr" tvg-name="SALON 18 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SALON 18 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3453465509.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Salon19.tr" tvg-name="SALON 19 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SALON 19 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/25015099.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Salon2.tr" tvg-name="SALON 2 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SALON 2 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7293,20 +6950,13 @@ https://vavoo.to/play3/178779066.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/6486691.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Salon6.tr" tvg-name="SALON 6 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SALON 6 HD (1)
+#EXTINF:-1 tvg-id="Salon5.tr" tvg-name="SALON 5 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SALON 5 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #KODIPROP:http-user-agent=VAVOO/2.6
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1112014302.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Salon7.tr" tvg-name="SALON 7 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SALON 7 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2397961536.m3u8/index.m3u8
+https://vavoo.to/play3/3435723325.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Salon8.tr" tvg-name="SALON 8 HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SALON 8 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7335,13 +6985,6 @@ https://vavoo.to/play3/2376090646.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2451600415.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="SemerkandRaw.tr" tvg-name="SEMERKAND RAW (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SEMERKAND RAW (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3726238957.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="SEMERKAND TV HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SEMERKAND TV HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7349,13 +6992,6 @@ https://vavoo.to/play3/3726238957.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/4096268883.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="SezenAksu.tr" tvg-name="SEZEN AKSU (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SEZEN AKSU (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2562804524.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW HD (H265) (1)" tvg-logo="/live2/logo/3537232978.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SHOW HD (H265) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7405,20 +7041,6 @@ https://vavoo.to/play3/351471337.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3747646907.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV RAW (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SHOW TV RAW (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3317405854.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV SD (1)" tvg-logo="/live2/logo/2112025777.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SHOW TV SD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2112025777.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="SHOWMAX (1)" tvg-logo="/live2/logo/1197572527.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SHOWMAX (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7454,13 +7076,6 @@ https://vavoo.to/play3/985769071.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/716793106.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="SlowKaradeniz.tr" tvg-name="SLOW KARADENIZ (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SLOW KARADENIZ (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1388101311.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="SmartCocuk.tr" tvg-name="SMART COCUK HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",SMART COCUK HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7657,13 +7272,6 @@ https://vavoo.to/play3/4088175397.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2661933413.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TabiiSpor5.tr" tvg-name="TABII SPOR 5 UHD (1)" tvg-logo="/live2/logo/3839332198.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",TABII SPOR 5 UHD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3839332198.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TabiiSpor6.tr" tvg-name="TABII SPOR 6 HD (1)" tvg-logo="/live2/logo/270984838.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",TABII SPOR 6 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7671,20 +7279,6 @@ https://vavoo.to/play3/3839332198.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/270984838.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TabiiSpor6.tr" tvg-name="TABII SPOR 6 UHD (1)" tvg-logo="/live2/logo/3713708963.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",TABII SPOR 6 UHD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3713708963.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TabiiSpor.tr" tvg-name="TABII SPOR HD (1)" tvg-logo="/live2/logo/2259480087.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",TABII SPOR HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2259480087.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TabiiSpor.tr" tvg-name="TABII SPOR SD (1)" tvg-logo="/live2/logo/4022148175.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",TABII SPOR SD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -8098,6 +7692,13 @@ https://vavoo.to/play3/504009173.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3271096410.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="TV52.tr" tvg-name="TV 52 (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",TV 52 (1)
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1080172058.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8 HD (H265) (1)" tvg-logo="/live2/logo/3298026270.png" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",TV 8 HD (H265) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -8189,13 +7790,6 @@ https://vavoo.to/play3/3524690612.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1182480796.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TvoTv.tr" tvg-name="TVO TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",TVO TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2916629658.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TYTTurk.tr" tvg-name="TYT TURK (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",TYT TURK (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -8245,20 +7839,6 @@ https://vavoo.to/play3/1566446122.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3174342016.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="UltraKorku.tr" tvg-name="ULTRA KORKU (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ULTRA KORKU (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3563562547.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="UltraTurk.tr" tvg-name="ULTRA TURK (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ULTRA TURK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1868001587.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="ULUSAL KANAL (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ULUSAL KANAL (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -8273,13 +7853,6 @@ https://vavoo.to/play3/1910048817.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1917903629.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="VatanTV.tr" tvg-name="VATAN TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",VATAN TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3282181511.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.tr" tvg-name="VIASAT EXPLORE (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",VIASAT EXPLORE (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -8336,13 +7909,13 @@ https://vavoo.to/play3/1788503935.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/758663570.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="YildizTilbe.tr" tvg-name="YILDIZ TILBE (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",YILDIZ TILBE (1)
+#EXTINF:-1 tvg-id="YolTv.tr" tvg-name="YOL TV (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",YOL TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #KODIPROP:http-user-agent=VAVOO/2.6
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/405072201.m3u8/index.m3u8
+https://vavoo.to/play3/3603580131.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="YolTv.tr" tvg-name="YOL TV SD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",YOL TV SD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -8350,13 +7923,6 @@ https://vavoo.to/play3/405072201.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/607077155.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="YunusEmre.tr" tvg-name="YUNUS EMRE (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",YUNUS EMRE (1)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3245297818.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Zara.tr" tvg-name="ZARA (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",ZARA (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
